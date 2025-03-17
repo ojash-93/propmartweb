@@ -1,0 +1,1351 @@
+@font-face {
+    font-family: Poppins-Bold;
+    src: url(../fonts/Poppins-Bold.ttf);
+}
+
+@font-face {
+    font-family: Poppins-SemiBold;
+    src: url(../fonts/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: Poppins-Regular;
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+
+/* header */
+header {
+    background-color: #091023;
+    background-image: url(../img/bgheader.png);
+    background-repeat: no-repeat;
+}
+
+.nav-link,
+.nav-link .active {
+    color: #FFFFFF !important;
+    margin-right: 48px;
+}
+
+.submit {
+    border-style: solid;
+    border-color: #e0e1e4;
+    background-color: transparent;
+    color: #FFFFFF;
+    border-radius: 4px;
+
+}
+
+
+/* header */
+
+
+/* session 1 */
+.session1-sub2 {
+    font-family: Poppins-SemiBold;
+    font-size: 55px;
+    line-height: 65px;
+    color: #091023;
+    padding-bottom: 24px;
+
+
+
+}
+
+.session1-submenu {
+    font-family: Poppins-SemiBold;
+    font-size: 16px;
+    line-height: 24px;
+    color: #091023 80%;
+
+}
+
+.session1-sub {
+
+    text-align: center;
+    display: inline;
+
+}
+
+.img1 {
+    width: 604px;
+    height: 618px;
+    margin-left: 127px;
+
+
+}
+
+.session1-menu {
+    background-color: #F2F2F2;
+}
+
+.session1-menu2 {
+
+    padding-left: 112px;
+    padding-top: 130px;
+    text-align: justify;
+}
+
+.session1-sub3 {
+    font-family: Poppins-Regular;
+    font-size: 16px;
+    line-height: 24px;
+    color: #091023;
+    padding-top: 24px;
+
+
+}
+
+/* session 1 */
+
+/* session 2 */
+.session2-menu {
+    background-color: #FFFFFF;
+    padding-bottom: 96px;
+    padding: 110px 110px;
+}
+
+.session2-heder {
+    font-family: Poppins-SemiBold;
+    font-size: 36px;
+    line-height: 52px;
+    color: #091023;
+    text-align: center;
+
+}
+
+.session2-sub1 {
+    margin-top: 32px;
+   
+
+
+
+
+}
+
+.session2-menu2 {
+    display: flex;
+}
+
+.session2-sub4 {
+    padding-right: 17px;
+}
+
+.session2-sub5 {
+    padding-right: 17px;
+}
+
+.session2-sub2 {
+    font-family: Poppins-SemiBold;
+    font-size: 22px;
+    line-height: 28px;
+    color: #091023;
+    padding-top: 10px;
+
+
+}
+
+.session2-submini {
+    margin-left: 100px;
+}
+
+.session2-sub3 {
+    font-family: Poppins-SemiBold;
+    font-size: 16px;
+    line-height: 24px;
+    color: #091023;
+
+    padding-top: 6px;
+}
+
+U .session2-sub7 {
+    display: flex;
+    margin-right: 8px;
+}
+
+.btn0 {
+    background-color: transparent;
+    border-style: solid;
+    border-color: #E1E1E1;
+    border-radius: 4px;
+}
+
+.btn1 {
+    font-family: Poppins-SemiBold;
+    font-size: 12px;
+    line-height: 18px;
+    color: #091023;
+    display: flex;
+    text-align: center;
+    padding-left: 19px;
+    padding-right: 7px;
+    padding-top: 8px;
+    margin-left: 8px;
+    background-color: transparent;
+    border-style: solid;
+    border-color: #E1E1E1;
+    border-radius: 4px;
+}
+
+.btn2 {
+    font-family: Poppins-SemiBold;
+    font-size: 12px;
+    line-height: 18px;
+    color: #091023;
+    display: flex;
+    text-align: center;
+    padding-left: 14px;
+    padding-right: 7px;
+    padding-top: 6px;
+    margin-left: 8px;
+    background-color: transparent;
+    border-style: solid;
+    border-color: #E1E1E1;
+    border-radius: 4px;
+}
+
+.btn3 {
+    font-family: Poppins-SemiBold;
+    font-size: 12px;
+    line-height: 18px;
+    color: #091023;
+    display: flex;
+    text-align: center;
+    padding-top: 6px;
+    margin-right: 8px;
+    background-color: transparent;
+    border-style: solid;
+    border-color: #E1E1E1;
+    border-radius: 4px;
+}
+
+.call {
+    padding-left: 8px;
+}
+
+.email1 {
+    padding-left: 8px;
+}
+
+.Compare {
+    padding-left: 8px;
+}
+
+
+/* session 2 */
+
+
+/* session 3 */
+.session3-menu {
+    background-color: #FFFFFF;
+    padding-bottom: 96px;
+    padding: 110px 110px;
+    display: inline;
+
+
+}
+
+.session3-sub {
+    font-family: Poppins-SemiBold;
+    font-size: 38px;
+    line-height: 52px;
+    color: #091023;
+
+}
+
+.session3-submenu {
+    display: inline;
+    padding-left: 48px;
+}
+
+.session3-sub2 {
+    font-family: Poppins-SemiBold;
+    font-size: 28px;
+    line-height: 44px;
+    text-align: center;
+    color: #FFFFFF;
+    height: 48px;
+    width: 48px;
+
+    border-style: solid;
+    border-radius: 25px;
+    background-color: #CE1F37;
+
+}
+
+.session3-img {
+    padding-left: 120px;
+
+}
+
+.session3-sub3 {
+    font-family: Poppins-Bold;
+    font-size: 28px;
+    line-height: 42px;
+    display: inline;
+    color: #091023;
+    margin-left: 10px;
+
+}
+
+.session3-sub4 {
+    font-family: Poppins-Regular;
+    font-size: 16px;
+    line-height: 25px;
+    padding-left: 67px;
+
+    padding-top: 14px;
+    text-align: justify;
+    color: #091023;
+}
+
+/* /session 3 */
+
+
+/* session 4 */
+.session4-menu1 {
+    margin-top: 92px;
+    padding-bottom: 96px;
+}
+
+.session4-sub1 {
+    font-family: Poppins-SemiBold;
+    font-size: 38px;
+    line-height: 52px;
+    color: #091023;
+
+    text-align: center;
+}
+
+.session4-sub2 {
+    font-family: Poppins-regular;
+    font-size: 16px;
+    line-height: 21px;
+    color: #091023 80%;
+    text-align: center;
+    padding-bottom: 24px;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+.slider-container {
+    position: relative;
+  }
+  
+  .prev,
+  .next {
+    position: absolute;
+    top: 50%;
+    background-color: transparent;
+    border-style: solid;
+    border-color: transparent;
+    transform: translateY(-50%);
+        
+    
+    
+    z-index: 1;
+  }
+  
+  .prev {
+    transform: translateX(-150%);
+    left: 16px; /* Adjust as needed */
+    margin-right: 16px;
+  }
+  
+  .next {
+    transform: translateX(150%);
+    right: 10px; /* Adjust as needed */
+  }
+.session4-sub4 {
+    font-family: Poppins-semibold;
+    font-size: 22px;
+    line-height: 35px;
+    color: #091023;
+    text-align: justify;
+
+
+}
+
+.session4-menu1 {
+    text-align: center;
+
+}
+
+.session4-sub5 {
+    font-family: Poppins-semibold;
+    font-size: 14px;
+    line-height: 21px;
+    color: #091023 80%;
+    padding-left: 35px;
+    /* padding-right: 56px; */
+    margin-bottom: 0px;
+    margin-right: 10px;
+
+}
+
+.session4-submenu {
+
+    padding: 16px;
+    margin-left: 24px;
+    border-style: solid;
+    border-color: #E1E1E1;
+
+}
+
+.session4-submenu1 {
+    display: inline;
+}
+
+.form-select {
+    font-family: Poppins-semibold;
+    font-size: 16px;
+    line-height: 21px;
+    color: #091023;
+}
+
+
+
+/* session 4*/
+
+
+/* ṣession 5 */
+.session5-menu {
+    margin-bottom: 96px;
+    padding-left: 235px;
+    padding-right: 229px;
+}
+
+.session5-sub {
+    font-family: Poppins-semibold;
+    font-size: 38px;
+    line-height: 44px;
+    color: #091023;
+    text-align: center;
+}
+
+.session5-sub1 {
+    font-family: Poppins-semibold;
+    font-size: 16px;
+    line-height: 21px;
+    color: #091023 80%;
+}
+
+/* session 5 */
+
+
+
+/* session 6 */
+.session6-menu {
+    padding-top: 161px;
+    padding-left: 235px;
+    padding-right: 229px;
+
+    padding-bottom: 94px;
+}
+
+.session6-menu2 {
+    padding-right: 75px;
+}
+
+.session6-sub {
+    font-family: Poppins-semibold;
+    font-size: 38px;
+    line-height: 52px;
+    color: #091023;
+
+    padding-bottom: 16px;
+}
+
+.session6-sub1 {
+    font-family: Poppins-semibold;
+    font-size: 18px;
+    line-height: 21px;
+    color: #091023 80%;
+    padding-right: 75px;
+
+
+}
+.row>.sec-6input{
+    padding-right: 0px !important;
+    padding-right: 0px !important;
+}
+
+
+.session6-btn{
+    width: 146px;
+    height: 48px;
+    background-color: #CE1F37;
+    font-family: Poppins-regular;
+   border-style: solid;
+   border-color: transparent;
+   border-radius: 4px;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+    text-align: center;
+   
+    margin-top: 14px; 
+}
+
+.session6-submenu {
+    display: inline;
+}
+
+.session6-sub2 {
+    display: inline;
+
+}
+
+.form-control {
+    /* width: 279px; */
+    padding-top: 13px;
+    padding-left: 16px;
+    padding-bottom: 13px;
+    border-style: solid;
+    border-color: #E1E1E1;
+    border-radius: 6px;
+
+
+    /* margin-left: 10px; */
+}
+
+.form-contro2 {
+    /* width: 279px; */
+    padding-top: 13px;
+    padding-left: 16px;
+    padding-bottom: 13px;
+
+
+    /* margin-left: 10px; */
+    margin-bottom: 14px;
+    border-style: solid;
+    border-color: #E1E1E1;
+    border-radius: 6px;
+}
+
+.form-select1 {
+    width: 279px;
+    padding-top: 13px;
+    padding-left: 16px;
+    padding-bottom: 13px;
+
+    margin-bottom: 14px;
+    border-style: solid;
+    border-color: #E1E1E1;
+    border-radius: 6px;
+
+
+
+}
+
+
+.form-contro3 {
+    /* width: 279px; */
+    padding-top: 14px;
+    padding-left: 16px;
+
+    padding-bottom: 13px;
+    /* margin-left: 11px; */
+    margin-bottom: 14px;
+
+    /* margin-left: 10px; */
+    border-style: solid;
+    border-color: #E1E1E1;
+    border-radius: 6px;
+
+}
+
+.form-label {
+
+    padding-top: 12px;
+    padding-bottom: 49px;
+    padding-right: 0px;
+    /* width: 10px; */
+    margin-bottom: 14px;
+    border-style: solid;
+    border-color: #E1E1E1;
+    border-radius: 6px;
+
+
+}
+
+
+/* .row .form-contro3{
+    padding-left: 0px;
+    padding-right: 0px;
+    
+} */
+
+
+/* session 6 */
+/* session 7 */
+.session-7 {
+    background-color: #091023;
+}
+
+.session7-img {
+    padding-right: 16px;
+}
+
+.session7-sub {
+    font-family: Poppins-semibold;
+    font-size: 32px;
+    line-height: 25px;
+    color: #FFFFFF;
+    text-align: justify;
+    margin-left: 16px;
+    padding-top: 25px;
+    padding-right: 0px;
+
+
+
+
+
+
+
+}
+
+.session7-menu {
+    margin-top: 90px;
+    padding-top: 90px;
+    display: inline;
+
+
+}
+
+.nav-link,
+.nav-link .active {
+    color: #FFFFFF !important;
+    display: inline;
+    margin-right: 24px;
+
+
+}
+
+.session7-menu2 {
+
+
+    border: top 1px;
+    border-style: solid;
+    /* opacity: 0.20; */
+    border-color: transparent;
+    /* border-top-color: rgba(210, 213, 218, 20) */
+    
+    border-top-color:rgb(210, 213, 218,0.20);
+    display: inline;
+    margin: 90px;
+    /* padding-left: 90px;
+    padding-right: 90px; */
+}
+
+.session7-menu {
+    padding-top: 90px;
+}
+
+.session7-sub3 {
+    font-family: Poppins-regular;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-bottom: 80px;
+
+}
+
+.desktop {
+    display: block;
+}
+
+.mobile {
+    display: none;
+}
+
+.accordion-item {
+    font-family: Poppins-semibold;
+    font-size: 16px;
+    line-height: 21px;
+    color: #091023;
+}
+
+.session-5menu2 {
+    font-family: Poppins-semibold;
+    font-size: 16px;
+    line-height: 21px;
+    color: #091023 80%;
+    padding-top: 24px;
+}
+
+/* session 7 */
+
+@media screen and (max-width: 769px) {
+
+    .desktop {
+        display: none;
+    }
+
+    .mobile {
+        display: block;
+    }
+
+    /* hero */
+    .hero-main {
+        padding: 30px;
+    }
+
+    /*  header */
+    header {
+        background-color: #091023;
+        background-image: none;
+        color: #FFFFFF;
+        background-repeat: no-repeat;
+    }
+
+    .navbar-toggler-icon {
+        /* background-color: white; */
+        /* color: red !important; */
+        background-image: url(../img/menu.png) !important;
+
+    }
+
+    .navbar-brand {
+        font-family: Poppins-semibold;
+        font-size: 24px;
+        line-height: 24px;
+
+        color: #FFFFFF;
+        display: flex;
+        text-align: center;
+
+    }
+
+    .header1 {
+        font-family: Poppins-semibold;
+        font-size: 22px;
+        line-height: 24px;
+        margin-left: 7px;
+        padding-top: 17px;
+        color: #FFFFFF;
+    }
+
+    .nav-link,
+    .nav-link .active {
+        color: #FFFFFF !important;
+    }
+
+    .submit {
+        border-style: solid;
+        border-color: #e0e1e4;
+        background-color: transparent;
+        color: #FFFFFF;
+
+    }
+
+    /* header */
+
+    /* session 1 */
+    .session1-sub2 {
+
+        font-family: Poppins-SemiBold;
+        font-size: 24px;
+        line-height: 26px;
+        color: #FFFFFF;
+        text-align: center;
+
+        display: flex;
+
+
+
+    }
+
+
+    .session1-sub {
+
+
+        text-align: center;
+        display: inline;
+
+    }
+
+    .img1 {
+        width: 0;
+        height: 0;
+        margin-left: 0;
+
+
+    }
+
+    .session1-menu {
+        background-image: url(../img/session\ 1\ img.png);
+        padding-top: 59px;
+        padding-left: 21px;
+        padding-right: 76px;
+        padding-bottom: 212px;
+        text-align: center;
+    }
+
+    .session1-menu2 {
+
+        padding-left: 0;
+        padding-top: 0;
+
+    }
+
+    .session1-sub3 {
+        font-family: Poppins-Regular;
+        font-size: 16px;
+        line-height: 24px;
+        color: #091023;
+        padding-top: 24px;
+
+
+    }
+
+    /* session 1 */
+
+
+    /* /session 2 */
+    .session2-menu {
+        background-color: #FFFFFF;
+        padding-bottom: 32px;
+
+        padding: 0px;
+    }
+
+    .session2-heder {
+        font-family: Poppins-SemiBold;
+        font-size: 22px;
+        line-height: 22px;
+        color: #091023;
+        text-align: center;
+        margin-top: 32px;
+
+    }
+
+    .session2-sub1 {
+        margin-top: 32px;
+        padding-left: 20px;
+
+
+
+
+    }
+
+    .session2-menu2 {
+        display: flex;
+    }
+
+    .session2-sub4 {
+        padding-right: 17px;
+    }
+
+    .session2-sub5 {
+        padding-right: 17px;
+    }
+
+    .session2-sub2 {
+        font-family: Poppins-SemiBold;
+        font-size: 16px;
+        line-height: 21px;
+        color: #091023;
+        padding-top: 9px;
+
+
+    }
+
+    .session2-submini {
+        margin-left: 81px;
+        display: inline;
+    }
+
+
+    .session2-sub3 {
+        font-family: Poppins-Regular;
+        font-size: 13px;
+        line-height: 18px;
+        color: #091023;
+
+        padding-top: 4px;
+    }
+
+    .session2-sub7 {
+        display: flex;
+        margin-right: 8px;
+    }
+
+    .btn0 {
+        background-color: transparent;
+        border-style: solid;
+        border-color: #E1E1E1;
+        border-radius: 4px;
+    }
+
+    .btn1 {
+        font-family: Poppins-Regular;
+        font-size: 9px;
+        line-height: 13px;
+        color: #091023;
+        display: flex;
+        text-align: center;
+        padding-left: 19px;
+        padding-right: 14px;
+        padding-top: 5px;
+        margin-left: 5px;
+        background-color: transparent;
+        border-style: solid;
+        border-color: #E1E1E1;
+        border-radius: 4px;
+    }
+
+    .btn2 {
+        font-family: Poppins-Regular;
+        font-size: 9px;
+        line-height: 13px;
+        color: #091023;
+        display: flex;
+        text-align: center;
+        padding-left: 14px;
+        padding-right: 7px;
+        padding-top: 6px;
+        margin-left: 8px;
+        background-color: transparent;
+        border-style: solid;
+        border-color: #E1E1E1;
+        border-radius: 4px;
+    }
+
+    .btn3 {
+        font-family: Poppins-Regular;
+        font-size: 9px;
+        line-height: 13px;
+        color: #091023;
+        display: flex;
+        text-align: center;
+        padding-top: 5px;
+        margin-right: 8px;
+        background-color: transparent;
+        border-style: solid;
+        border-color: #E1E1E1;
+        border-radius: 4px;
+    }
+
+    .call {
+        padding-left: 8px;
+    }
+
+    .email1 {
+        padding-left: 8px;
+    }
+
+    .Compare {
+        padding-left: 8px;
+    }
+
+
+    /* session 2 */
+
+
+
+
+    /* session 3 */
+    .session3-menu {
+        background-color: #FFFFFF;
+        padding-bottom: 0;
+        padding: 32px;
+        display: inline;
+
+
+
+    }
+
+    .session3-sub {
+        font-family: Poppins-SemiBold;
+        font-size: 22px;
+        line-height: 26px;
+        color: #091023;
+        margin-left: 32px;
+
+    }
+
+    .session3-submenu {
+
+        padding-left: 48px;
+    }
+
+    .session3-sub2 {
+        font-family: Poppins-SemiBold;
+        font-size: 14px;
+        line-height: 22px;
+        text-align: center;
+        color: #FFFFFF;
+        height: 24px;
+        width: 24px;
+        margin-left: 32px;
+
+        border-style: solid;
+        border-radius: 25px;
+        background-color: #CE1F37;
+
+    }
+
+    .session3-img {
+        width: 311px;
+        height: 250px;
+
+        margin-left: 32px;
+        padding-right: 32px;
+        padding: 0px;
+        padding-top: 14px;
+        align-items: center;
+        padding-bottom: 0px;
+
+    }
+
+    .session3-sub3 {
+        font-family: Poppins-SemiBold;
+        font-size: 14px;
+        line-height: 21px;
+        display: inline;
+        color: #091023;
+        margin-left: 13px;
+
+    }
+
+    .session3-sub4 {
+        font-family: Poppins-Regular;
+        font-size: 12px;
+        line-height: 18px;
+        padding-right: 34px;
+        padding-top: 7px;
+        text-align: justify;
+        color: #091023;
+    }
+
+
+
+    /* /session 3 */
+
+
+    /* session 4 */
+    .session4-menu1 {
+        margin-top: 32px;
+        padding-bottom: 32px;
+        text-align: center;
+
+
+
+    }
+
+    .session4-sub1 {
+        font-family: Poppins-SemiBold;
+        font-size: 22px;
+        line-height: 26px;
+        color: #091023;
+
+        text-align: center;
+    }
+
+    .session4-sub2 {
+        font-family: Poppins-regular;
+        font-size: 12px;
+        line-height: 18px;
+        color: #091023 80%;
+        text-align: center;
+        padding-bottom: 12px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    
+
+    .session4-sub4 {
+        font-family: Poppins-semibold;
+        font-size: 11px;
+        line-height: 17px;
+        color: #091023;
+        margin-bottom: 0px;
+        padding-left: 7px;
+
+    }
+.sec-4{
+    display: block !important;
+}
+    .session4-menu1 {
+        text-align: center;
+        padding-left: 49px; 
+        padding-right: 49px;
+
+    }
+    .slick-prev:before,
+    .slick-next:before {
+       display:none;
+    }
+    .session4-sub5 {
+        font-family: Poppins-regular;
+        font-size: 7px;
+        line-height: 10px;
+        color: #091023;
+display: inline;
+        padding-right: 99px;
+        padding-left: 25px;
+
+
+
+
+
+
+    }
+
+
+
+    .session4-submenu {
+
+        padding: 16px;
+      
+        margin-bottom: 12px;
+        border-style: solid;
+        border-color: #E1E1E1;
+
+    }
+
+    .session4-submenu1 {
+
+        text-align: justify;
+    }
+
+    .form-select {
+        font-family: Poppins-semibold;
+        font-size: 16px;
+        line-height: 21px;
+        color: #091023;
+    }
+
+
+
+    /* session 4*/
+
+    /* ṣession 5 */
+    .session5-menu {
+        margin-bottom: 96px;
+        padding-left: 32px;
+        padding-right: 32px;
+    }
+
+    .session-5menu1 {
+        font-family: Poppins-semibold;
+        font-size: 22px;
+        line-height: 21px;
+        color: #091023;
+    }
+
+    .session-5menu2 {
+        font-family: Poppins-regular;
+        font-size: 12px;
+        line-height: 10px;
+        color: #091023;
+    }
+
+    .session5-sub {
+        font-family: Poppins-semibold;
+        font-size: 38px;
+        line-height: 44px;
+        color: #091023;
+        text-align: center;
+    }
+
+    .session5-sub1 {
+        font-family: Poppins-semibold;
+        font-size: 16px;
+        line-height: 21px;
+        color: #091023 80%;
+    }
+
+    /* session 5 */
+
+
+
+    /* session 6 */
+    .session6-menu {
+        padding-top: 0px;
+        padding-left: 32px;
+        padding-right: 32px;
+
+        padding-bottom: 32px;
+        display: flex;
+    }
+
+    .session6-menu2 {
+        padding-right: 0px;
+    }
+
+    .session6-sub {
+        font-family: Poppins-semibold;
+        font-size: 19px;
+        line-height: 26px;
+        color: #091023;
+
+        padding-bottom: 8px;
+    }
+
+    .session6-sub1 {
+        font-family: Poppins-semibold;
+        font-size: 8px;
+        line-height: 12px;
+        color: #091023;
+
+
+    }
+
+    .lastbuttan {
+        width: 73px;
+        height: 24px;
+        background-color: #CE1F37 !important;
+        font-family: Poppins-regular;
+        font-size: 9px;
+        border-radius: 2px;
+
+        line-height: 13px;
+        color: #FFFFFF;
+        text-align: left;
+        margin-top: 7px;
+    }
+
+    .btn {
+        width: 73px;
+        height: 24px;
+        background-color: #CE1F37;
+        font-family: Poppins-regular;
+        font-size: 9px;
+        border-radius: 2px;
+
+        line-height: 13px;
+        color: #FFFFFF;
+        text-align: left;
+        margin-top: 7px;
+
+    }
+
+    .session6-submenu {
+        display: inline;
+    }
+
+    .session6-sub2 {
+        display: inline;
+
+    }
+
+    .form-control {
+        /* width: 279px; */
+        padding-top: 6px;
+        padding-left: 8px;
+        padding-bottom: 7px;
+        border-style: solid;
+        border-color: #E1E1E1;
+        border-radius: 3px;
+        padding-right: 5px;
+
+
+        /* margin-left: 10px; */
+    }
+
+    .form-contro2 {
+        /* width: 279px; */
+        padding-top: 6px;
+        padding-left: 8px;
+        padding-bottom: 6px;
+
+
+
+        margin-bottom: 14px;
+        border-style: solid;
+        border-color: #E1E1E1;
+        border-radius: 6px;
+    }
+
+    .form-select1 {
+        width: 0px;
+        padding-top: 6px;
+        padding-left: 8px;
+        padding-bottom: 7px;
+
+        margin-bottom: 14px;
+        border-style: solid;
+        border-color: #E1E1E1;
+        border-radius: 6px;
+
+
+
+
+    }
+
+
+    .form-contro3 {
+        /* width: 279px; */
+        padding-top: 6px;
+        padding-left: 8px;
+
+        padding-bottom: 7px;
+        /* margin-left: 11px; */
+        margin-bottom: 14px;
+
+        /* margin-left: 10px; */
+        border-style: solid;
+        border-color: #E1E1E1;
+        border-radius: 6px;
+
+    }
+
+    .form-label {
+
+        padding-top: 12px;
+        padding-bottom: 24px;
+        padding-left: 8px;
+        /* width: 10px; */
+        margin-bottom: 14px;
+        border-style: solid;
+        border-color: #E1E1E1;
+        border-radius: 6px;
+
+
+    }
+
+    /* .row .form-contro3{
+    padding-left: 0px;
+    padding-right: 0px;
+    
+} */
+
+
+    /* session 6 */
+
+    /* session 7 */
+    .session-7 {
+        background-color: #091023;
+        text-align: center;
+
+    }
+
+    .session7-sub {
+        font-family: Poppins-semibold;
+        font-size: 32px;
+        line-height: 25px;
+        color: #FFFFFF;
+
+
+
+
+
+    }
+
+    .nav-link,
+    .nav-link .active {
+        color: #FFFFFF !important;
+        margin-bottom: 16px;
+
+    }
+
+    .submit {
+        border-style: solid;
+        border-color: #e0e1e4;
+        background-color: transparent;
+        color: #FFFFFF;
+
+    }
+
+}

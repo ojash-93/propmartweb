@@ -1,0 +1,147 @@
+@font-face {
+    font-family: Poppins-Bold;
+    src: url(../fonts/Poppins-Bold.ttf);
+}
+
+@font-face {
+    font-family: Poppins-SemiBold;
+    src: url(../fonts/Poppins-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: Poppins-Regular;
+    src: url(../fonts/Poppins-Regular.ttf);
+}
+
+
+
+
+
+/* session 6 */
+
+.session6-menu {
+    padding-top: 161px;
+    padding-left: 235px;
+    padding-right: 229px;
+
+    padding-bottom: 94px;
+}
+
+.session6-menu2 {
+    padding-right: 75px;
+}
+
+.session6-sub {
+    font-family: Poppins-semibold;
+    font-size: 38px;
+    line-height: 52px;
+    color: #091023;
+
+    padding-bottom: 16px;
+}
+
+.session6-sub1 {
+    font-family: Poppins-semibold;
+    font-size: 18px;
+    line-height: 21px;
+    color: #091023 80%;
+    padding-right: 75px;
+
+
+}
+
+.row>.sec-6input{
+    padding-right: 0px !important;
+    padding-right: 0px !important;
+}
+
+.session6-submenu {
+    display: inline;
+}
+
+.session6-sub2 {
+    display: inline;
+
+}
+
+.form-control {
+    /* width: 279px; */
+    padding-top: 13px;
+    padding-left: 16px;
+    padding-bottom: 13px;
+    border-style: solid;
+    border-color: #E1E1E1;
+    border-radius: 6px;
+
+
+    /* margin-left: 10px; */
+}
+
+.form-contro2 {
+    /* width: 279px; */
+    padding-top: 13px;
+    padding-left: 16px;
+    padding-bottom: 13px;
+
+
+    /* margin-left: 10px; */
+    margin-bottom: 14px;
+    border-style: solid;
+    border-color: #E1E1E1;
+    border-radius: 6px;
+}
+
+.form-select1 {
+    width: 279px;
+    padding-top: 13px;
+    padding-left: 16px;
+    padding-bottom: 13px;
+
+    margin-bottom: 14px;
+    border-style: solid;
+    border-color: #E1E1E1;
+    border-radius: 6px;
+
+
+
+}
+
+
+.form-contro3 {
+    /* width: 279px; */
+    padding-top: 14px;
+    padding-left: 16px;
+
+    padding-bottom: 13px;
+    /* margin-left: 11px; */
+    margin-bottom: 14px;
+
+    /* margin-left: 10px; */
+    border-style: solid;
+    border-color: #E1E1E1;
+    border-radius: 6px;
+
+}
+
+.form-label {
+
+    padding-top: 12px;
+    padding-bottom: 49px;
+    padding-right: 0px;
+    /* width: 10px; */
+    margin-bottom: 14px;
+    border-style: solid;
+    border-color: #E1E1E1;
+    border-radius: 6px;
+
+
+}
+
+/* .row .form-contro3{
+    padding-left: 0px;
+    padding-right: 0px;
+    
+} */
+
+
+/* session 6 */
